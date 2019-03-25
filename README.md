@@ -1,3 +1,3 @@
-# Chinese-Podcast-list
+# Chinese-Podcast-List
 
 （中文播客圈）
